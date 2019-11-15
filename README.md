@@ -30,6 +30,13 @@ The following cases are covered by the extension :
 - classes and methods calling org.springframework.batch.item.ItemWriter, org.springframework.batch.item.ItemReader, org.springframework.batch.item.ItemStream, org.springframework.batch.item.ItemStreamReader 
 To be included in a next version of the Transaction Configuration Kit 
 	
+# Changelog
+
+ 2.1.0 : 
+- bug fixing 
+- renaming of the objects in the metamodel to avoid conflicts with standard SpringBatch objects 
+
+	
 # TODO 
 to be described 
 
